@@ -326,13 +326,6 @@ footer { padding: 15px; }
 }
 #timeline_div {	height: auto; }
 
-/* JQVMap */
-.jqvmap-zoomin, .jqvmap-zoomout {
-    width: 15px;
-    height: 15px;
-}
-.vmap { height: 300px; }
-
 /* 5. Login
 ------------------------------*/
 .templatemo-login-widget {
